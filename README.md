@@ -1,6 +1,3 @@
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/user-attachments/assets/84c6d4c6-22f1-4746-860f-fb9ff3aa2252)
-
-
 <h1 align="center">Namastey 🙏, I'm Vishvjeet Rana</h1>
 <h3 align="center">A Full Stack Web developer from India.</h3>
 <h4 align="center">I Love to talk about Web Dev & AI.</h4>
