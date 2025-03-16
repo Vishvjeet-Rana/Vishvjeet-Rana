@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishvjeet-rana&label=Profile%20views&color=0e75b6&style=flat" alt="vishvjeet-rana" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vishvjeet-rana.github.io/Vishvjeet-Dev-Portfolio/](https://vishvjeet-rana.github.io/Vishvjeet-Dev-Portfolio/)
+- 👨‍💻 All of my projects are available at vishvjeet.com
 
 - 📫 How to reach me **vishvjeet.rana7@gmail.com**
 
