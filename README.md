@@ -26,8 +26,8 @@
 
 <h3 align="left">Back-End:</h3>
 
-`Node.js`, `Express.js`, `MySQL`, `MongoDB`, `REST APIs`
+`Node.js`, `Express.js`, `MySQL`, `MongoDB`, `REST APIs`, `Mongoose`
 
 <h3 align="left">Tech & Tools:</h3>
 
-`Git`, `GitHub`, `VS Code`
+`Git`, `GitHub`, `VS Code`, `Docker`
