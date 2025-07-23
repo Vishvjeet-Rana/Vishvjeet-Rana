@@ -18,16 +18,16 @@
 
 <h3 align="left">Languages:</h3>
 
-`JavaScript`
+`JavaScript`, `TypeScript`
 
 <h3 align="left">Front-End:</h3>
 
-`HTML`, `CSS`, `React.js`, `Tailwind CSS`, `GSAP`, `Three.js Occasionally`, `react-bits-library`, `Vite`, `MUI`, `react-icons & luicude`
+`HTML`, `CSS`, `React.js`, `Vue.js`, `Tailwind CSS`, `GSAP`, `Three.js Occasionally`, `react-bits-library`, `Vite`, `MUI`, `react-icons & luicude`
 
 <h3 align="left">Back-End:</h3>
 
-`Node.js`, `Express.js`, `MySQL`, `MongoDB`, `REST APIs`, `Mongoose`
+`Node.js`, `Express.js`, `MySQL`, `MongoDB`, `Nest.js`, `Prisma`, `PostgreSQL`, `REST APIs`, `Mongoose`
 
 <h3 align="left">Tech & Tools:</h3>
 
-`Git`, `GitHub`, `VS Code`, `Docker`
+`Git`, `GitHub`, `VS Code`, `Swagger`, `Postman`, `ThunerClient`
